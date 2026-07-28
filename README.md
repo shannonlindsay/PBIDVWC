@@ -12,8 +12,9 @@ Visit [aka.ms/dd/create](https://aka.ms/dd/create) for more details!
 
 ## 🔽 How to Download the Starter File
 
-Select [this link](https://github.com/shannonlindsay/FabricCommunityContests/raw/refs/heads/main/StarterFiles/World%20Champs%20BCN%2026%20-%20Round%201.pbix), or navigate to the Starter Files folder on the main branch to download the starter files for each week.
+To download the Round 3 starter file, select [this link](https://raw.githubusercontent.com/shannonlindsay/FabricCommunityContests/main/StarterFiles/World%20Champs%20BCN%2026%20-%20Round%203.pbix), or navigate to the Starter Files folder on the main branch to download the starter files for each week.
 
+Note - you'll need to download the dataset from the source if you want to manipulate the data in Power Query. Data can be found on [Kaggle](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies).
 
 ---
 
